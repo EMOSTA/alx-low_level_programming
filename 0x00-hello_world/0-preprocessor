@@ -1,2 +1,2 @@
 #!/bin/bash
-echo gcc > c | c=\$CFILE  
+echo gcc > c.c | c=\$CFILE  | ls c.c > \$CFILE
