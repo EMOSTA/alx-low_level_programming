@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc 0-main.c | export -n \$CFILE=0-main.c | less \$CFILE > c
+gcc 0-main.c | export -n \$CFILE=0-main.c | cat \$CFILE >> c
