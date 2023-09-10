@@ -1,12 +1,10 @@
-#include <stdio.h> 
-	
+#include<stdio.h>
 	/**
-	 * my_first program
+	 * my_first_program
 	 */
-	
-	int main (void)
-{	
+	int main(void)
+	{
 	puts("\"Programming is like building a multilingual puzzle");
- 	
-	return 0;
+
+	return (0);
 	}
