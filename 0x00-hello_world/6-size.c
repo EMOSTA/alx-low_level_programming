@@ -3,7 +3,8 @@
  * main - the programstart here
  * function - sizes
  *
- * Return - zero
+ * Return - Description of the returned value
+ *
  */
 	int main(void)
 	{
@@ -12,5 +13,5 @@
 	printf("size of a long int: %d byte(s)\n", sizeof(long int));
 	printf("size of a along long int: %d byte(s)\n", sizeof(long long int));
 	printf("size of a float: %d byte(s)\n", sizeof(float));
-	return(0);
+	return (0);
 	}
