@@ -1,2 +1,2 @@
 #!/bin/bash
-touch main.c | gcc main.c -c | export \$CFILE=1-main.c | cat main.c > main.o 
+touch main.c | gcc main.c -c | \$CFILE=1-main.c | cat main.c > main.o 
