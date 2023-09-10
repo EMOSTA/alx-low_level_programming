@@ -1,6 +1,7 @@
 #include<stdio.h>
-	/*
-	 *printf("with proper grammar, but the outcome is a piece of art,\n");
+	/**
+	 * function - main
+	 * discrption - starting of the program
 	 */
 	int main(void)
 	{
