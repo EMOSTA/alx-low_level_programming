@@ -1,6 +1,6 @@
 #include<stdio.h>
 	/**
-	 * my_first_program
+	 * puts \"Programming is like building a multilingual puzzle
 	 */
 	int main(void)
 	{
