@@ -1,7 +1,10 @@
 #include<stdio.h>
-	/**
-	 * Programming is like building a multilingual puzzle
-	 */
+/**
+ * main - starter
+ * function - began
+ *
+ * Return: the end
+ */
 	int main(void)
 	{
 	puts("\"Programming is like building a multilingual puzzle");
