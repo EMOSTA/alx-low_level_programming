@@ -1,10 +1,10 @@
 #include <stdio.h> 
-
-int main (void)
-
+	
 	/**
-	 * bigining of the program
+	 * my_first program
 	 */
+	
+	int main (void)
 {	
 	puts("\"Programming is like building a multilingual puzzle");
  	
