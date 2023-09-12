@@ -1,13 +1,14 @@
 #include<stdio.h>
 /**
- * main _ function
+ * main - function
  *
- * Return: alwaye 0
+ * Return: alwayse 0
  */
 int main(void)
 {
 	char n;
-	for(n = 'a' ; n <='z' ; n++)
+
+	for (n = 'a' ; n <= 'z' ; n++)
 		if (n != 'q' && n != 'e')
 			putchar(n);
 	putchar('\n');
