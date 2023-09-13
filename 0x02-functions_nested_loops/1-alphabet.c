@@ -1,10 +1,10 @@
-nclude "main.h"
+#include "main.h"
 
 /**
- * print_alphabet - prints alphabet to stdout,
- * Description: prints alphabet in lowercase using _putchar function.
- * Return: Always Returns Nothing
- */
+ * * print_alphabet - prints alphabet to stdout,
+ * * Description: prints alphabet in lowercase using _putchar function.
+ * * Return: Always Returns Nothing
+ * */
 void print_alphabet(void)
 {
 		const char *alphabet = "abcdefghijklmnopqrstuvwxyz";
@@ -17,3 +17,4 @@ void print_alphabet(void)
 												}
 					_putchar('\n');
 }
+
