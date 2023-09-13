@@ -4,7 +4,7 @@
  *  * main - writing to stdout,
  *   * Description: writing to stdout using _putchar
  *    * Return: return 0 upon success
- */
+ *     */
 int main(void)
 {
 		_putchar('_');
